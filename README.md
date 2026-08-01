@@ -1,6 +1,6 @@
 # lab2_redes
 ## Implementación de Fletcher y Viterbi. 
-Se implementaron los algoritmos de Fletcher y Viterbi para detección y corrección de errores de bits. Además, se creó el envío de palabras por medio de bits (mediante conversión bits-ASCII) con un porcentaje de ruido; dependiendo del algoritmo (elegido por el usuario), este se envía, por medio del programa emisor (Python) al programa receptor (C), y se detecta o corrigen los errores.\
+Se implementaron los algoritmos de Fletcher y Viterbi para detección y corrección de errores de bits. Además, se creó el envío de palabras por medio de bits (mediante conversión bits-ASCII) con un porcentaje de ruido; dependiendo del algoritmo (elegido por el usuario), este se envía, por medio del programa emisor (Python) al programa receptor (C), y se detecta o corrigen los errores.
 
 
 
