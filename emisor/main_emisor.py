@@ -96,5 +96,5 @@ def main():
     print('Enviado: {} bits ({} bits de carga + redundancia)'.format(len(trama_con_ruido), len(bits)))
 
 
-
-main()
+if __name__ == '__main__':
+    main()
